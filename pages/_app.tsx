@@ -1,6 +1,6 @@
 import '../styles/globals.css';
 import type { AppProps } from 'next/app';
-import '@grikomsn/cal-sans';
+//import '@grikomsn/cal-sans';
 import { UserContextProvider } from '@/utils/contexts/useUser';
 import { SWRConfig } from 'swr';
 import { Toaster } from 'react-hot-toast';
